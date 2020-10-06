@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_category_name" type="id" />
+    <item name="tv_category_description" type="id" />
+    <item name="btn_profile" type="id" />
+    <item name="btn_show_dialog" type="id" />
+    <item name="btn_detail_category" type="id" />
+    <item name="rb_saf" type="id" />
+    <item name="rb_mou" type="id" />
+    <item name="rb_lvg" type="id" />
+    <item name="rb_moyes" type="id" />
+    <item name="btn_close" type="id" />
+    <item name="btn_choose" type="id" />
+    <item name="rg_options" type="id" />
+</resources>
